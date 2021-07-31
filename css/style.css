@@ -7,7 +7,7 @@ header {
   background: lightyellow;
   min-height: 20vh;
   background: linear-gradient(
-    to top bottom,
+    to right bottom,
     rgba(230, 250, 142, 0.3),
     rgba(255, 255, 255, 0.1)
   );
@@ -42,6 +42,7 @@ main {
   align-items: center;
 }
 .glass {
+  margin-top: 3rem;
   background: white;
   min-height: 80vh;
   width: 60%;
